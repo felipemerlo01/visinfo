@@ -1,0 +1,5 @@
+Tiempo en minutos
+medio en clave: S(n) - Subte, línea n // T(n) - Tren, línea n // B - Bici // C(n) - Colectivo, línea n // CAM - Caminar // CC - Correr
+propósitos en clave: M - musical // A - académico // S - social // E - ejercitación 
+
+n° de viaje    medio    tiempo    propósito predominante
