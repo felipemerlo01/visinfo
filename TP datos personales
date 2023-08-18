@@ -3,3 +3,13 @@ medio en clave: S(n) - Subte, línea n // T(n) - Tren, línea n // B - Bici // C
 propósitos en clave: M - musical // A - académico // S - social // E - ejercitación 
 
 n° de viaje    medio    tiempo    propósito predominante
+1              CAM      13        A  
+2              CAM      15        A
+3              B        18        M
+4              B        20        M
+5              CC       90        E
+6              S(h)     26        A
+7              S(h)     29        A
+8              S(h)     4         A
+9              S(d)     17        A
+10             CAM      23        A
